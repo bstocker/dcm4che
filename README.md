@@ -222,6 +222,6 @@ Evaluation
 Cet atelier, **noté sur 20 points**, est évalué sur la base du barème suivant :  
 - Pertinance des explications sur les outils présentés (5 points)
 - Qualité du scénario présenté dans l'atelier N°2 (4 points)
-- Degré de technicité des atelier 1 et 2 (4 points)
+- Degré de technicité des ateliers 1 et 2 (4 points)
 - Qualité du Readme (lisibilité, erreur, ...) (4 points)
 - Processus travail (quantité de commits, cohérence globale, interventions externes, ...) (3 points) 
